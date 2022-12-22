@@ -11,5 +11,4 @@ public class CompanyMotto {
         System.out.println(("******************************"));
 
     }
-
 }
