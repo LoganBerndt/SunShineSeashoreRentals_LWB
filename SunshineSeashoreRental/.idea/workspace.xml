@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8540a14-aba5-4958-93aa-c6c308636b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CompanyMotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeashoreMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/Ch3Sunshine.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/out/production/Ch3Sunshine/Ch3Sunshine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/out/production/Ch3Sunshine/CompanyMotto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/out/production/Ch3Sunshine/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/src/Ch3Sunshine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/src/CompanyMotto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b8540a14-aba5-4958-93aa-c6c308636b82" name="Changes" comment="Added the date and re added a lot of the code due to a corrupt file." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671720700209</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the date and re added a lot of the code due to a corrupt file.">
+      <created>1671721351644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671721351644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the date and re added a lot of the code due to a corrupt file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the date and re added a lot of the code due to a corrupt file." />
   </component>
 </project>
