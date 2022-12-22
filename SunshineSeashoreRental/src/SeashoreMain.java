@@ -2,7 +2,7 @@
 
 This program will prompt the user for the number of minutes that they rent a
 piece of sports equipment for. It also displays the companies motto with a
-border and the price for the rental.
+border and the price for the rental. Also Displays the date.
 
 Logan Berndt
 

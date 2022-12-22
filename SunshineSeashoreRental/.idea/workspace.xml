@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8540a14-aba5-4958-93aa-c6c308636b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CompanyMotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeashoreMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/Ch3Sunshine.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/out/production/Ch3Sunshine/Ch3Sunshine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/out/production/Ch3Sunshine/CompanyMotto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/out/production/Ch3Sunshine/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/src/Ch3Sunshine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/src/CompanyMotto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ch3Sunshine/src/Main.java" beforeDir="false" />
+    <list default="true" id="ed481718-73ea-40a4-8cba-4bd01242f36b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/SeashoreMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeashoreMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
